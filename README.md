@@ -19,5 +19,6 @@ IntelliJIDEA_ReferenceCard_CN_MacOS   -  MacOS 操作平台
 
 
 ##### 喝咖啡
-<img src="images/AliPay.png" style="zoom:40%;" />
-<img src="images/WeChatPay.png" style="zoom:40%;" />
+
+<img src="images/AliPay.png" width="200" hegiht="113" align=center />
+<img src="images/WeChatPay.png" width="200" hegiht="113" align=center />
