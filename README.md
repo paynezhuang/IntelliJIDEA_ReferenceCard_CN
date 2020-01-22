@@ -7,11 +7,13 @@
 
 #### 英文原版
 IntelliJIDEA_ReferenceCard_EN_ALL     -  双平台
+
 IntelliJIDEA_ReferenceCard_EN_Windows -  Windows 操作平台
 IntelliJIDEA_ReferenceCard_EN_MacOS   -  MacOS 操作平台
 
 #### 中文翻译版
 IntelliJIDEA_ReferenceCard_CN_ALL     -  双平台
+
 IntelliJIDEA_ReferenceCard_CN_Windows -  Windows 操作平台
 IntelliJIDEA_ReferenceCard_CN_MacOS   -  MacOS 操作平台
 
