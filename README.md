@@ -9,12 +9,14 @@
 IntelliJIDEA_ReferenceCard_EN_ALL     -  双平台
 
 IntelliJIDEA_ReferenceCard_EN_Windows -  Windows 操作平台
+
 IntelliJIDEA_ReferenceCard_EN_MacOS   -  MacOS 操作平台
 
 #### 中文翻译版
 IntelliJIDEA_ReferenceCard_CN_ALL     -  双平台
 
 IntelliJIDEA_ReferenceCard_CN_Windows -  Windows 操作平台
+
 IntelliJIDEA_ReferenceCard_CN_MacOS   -  MacOS 操作平台
 
 ###### 此文档结合个人理解以及参考网络文档进行中文翻译，如有异处，麻烦指正。
@@ -22,5 +24,4 @@ IntelliJIDEA_ReferenceCard_CN_MacOS   -  MacOS 操作平台
 
 ##### 喝咖啡
 
-<img src="images/AliPay.png" width="200" hegiht="113" align=center />
-<img src="images/WeChatPay.png" width="200" hegiht="113" align=center />
+<img src="images/AliPay.png" width="200" hegiht="113" align=center />   <img src="images/WeChatPay.png" width="200" hegiht="113" align=center />
